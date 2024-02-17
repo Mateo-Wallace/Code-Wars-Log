@@ -7,6 +7,11 @@ A place to easily store and view my solutions and the best practice solutions to
 
 ## Kata
 
+### 5 kyu
+
+[Human Readable Time](./kata/5%20kyu/Human%20Readable%20Time/README.md)
+
+### 6 kyu
 [Multiples of 3 or 5](./kata/6%20kyu/Multiples%20of%203%20or%205/README.md)
 
 [Decode the Morse code](./kata/6%20kyu/Decode%20the%20Morse%20code/README.md)

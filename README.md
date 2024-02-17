@@ -7,8 +7,8 @@ A place to easily store and view my solutions and the best practice solutions to
 
 ## Kata
 
-[Multiples of 3 or 5](./kata/Multiples%20of%203%20or%205/README.md)
+[Multiples of 3 or 5](./kata/6%20kyu/Multiples%20of%203%20or%205/README.md)
 
-[Decode the Morse code](./kata/Decode%20the%20Morse%20code/README.md)
+[Decode the Morse code](./kata/6%20kyu/Decode%20the%20Morse%20code/README.md)
 
-[Take a Ten Minutes Walk](./kata/Take%20a%20Ten%20Minutes%20Walk/README.md)
+[Take a Ten Minutes Walk](./kata/6%20kyu/Take%20a%20Ten%20Minutes%20Walk/README.md)

@@ -12,4 +12,4 @@ Additionally, if the number is negative, return 0.
 
 Courtesy of projecteuler.net ([Problem 1](https://projecteuler.net/problem=1))
 
-[Problem on Codewars](https://www.codewars.com/kata/514b92a657cdc65150000006)
+https://www.codewars.com/kata/514b92a657cdc65150000006

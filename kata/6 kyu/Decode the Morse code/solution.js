@@ -1,4 +1,5 @@
 // https://www.codewars.com/users/czyzykowski
+const MORSE_CODE = require("./helper");
 
 decodeMorse = function (morseCode) {
   function decodeMorseLetter(letter) {
@@ -10,5 +11,5 @@ decodeMorse = function (morseCode) {
   return morseCode.trim().split("   ").map(decodeMorseWord).join(" ");
 };
 
-decodeMorse('.... . -.--   .--- ..- -.. .')
-//should return "HEY JUDE"
+//expected output: "HEY JUDE"
+console.log(decodeMorse(".... . -.--   .--- ..- -.. ."));

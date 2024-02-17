@@ -26,4 +26,5 @@ function isValidWalk(walk) {
   return ns === 0 && ew === 0 && walk.length === 10;
 }
 
+// expected output: true
 console.log(isValidWalk(["n", "s", "w", "e", "n", "s", "w", "e", "w", "e"]));

@@ -11,5 +11,5 @@ function solution(number) {
   return sum;
 }
 
-solution(10)
-
+// expected output: 23
+console.log(solution(10));

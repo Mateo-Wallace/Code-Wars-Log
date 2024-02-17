@@ -11,4 +11,5 @@ function isValidWalk(walk) {
   );
 }
 
+// expected output: true
 console.log(isValidWalk(["n", "s", "w", "e", "n", "s", "w", "e", "w", "e"]));

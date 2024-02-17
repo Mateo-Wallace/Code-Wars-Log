@@ -1,3 +1,5 @@
+const MORSE_CODE = require("./helper");
+
 decodeMorse = function (morseCode) {
   const arr = morseCode.trim().split(" ");
   let result = "";
@@ -9,5 +11,5 @@ decodeMorse = function (morseCode) {
   return result;
 };
 
-decodeMorse(".... . -.--   .--- ..- -.. .");
-//should return "HEY JUDE"
+//expected output: "HEY JUDE"
+console.log(decodeMorse(".... . -.--   .--- ..- -.. ."));

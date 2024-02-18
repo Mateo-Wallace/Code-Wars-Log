@@ -20,3 +20,5 @@ A place to easily store and view my solutions and the best practice solutions to
 [Take a Ten Minutes Walk](./kata/6%20kyu/Take%20a%20Ten%20Minutes%20Walk/README.md)
 
 [Sum of Digits / Digital Root](./kata/6%20kyu/Sum%20of%20Digits%20Digital%20Root/README.md)
+
+[Playing with digits](./kata/6%20kyu/Playing%20with%20digits/README.md)

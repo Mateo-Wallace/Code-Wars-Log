@@ -1,0 +1,16 @@
+{
+  "name": "decode-the-morse-code",
+  "version": "1.0.0",
+  "description": "In this kata you have to write a simple [Morse code](https://en.wikipedia.org/wiki/Morse_code) decoder. While the Morse code is now mostly superseded by voice and digital data communication channels, it still has its use in some applications around the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4",
+    "mocha": "^10.3.0"
+  }
+}

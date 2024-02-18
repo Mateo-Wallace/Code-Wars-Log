@@ -11,5 +11,4 @@ decodeMorse = function (morseCode) {
   return morseCode.trim().split("   ").map(decodeMorseWord).join(" ");
 };
 
-//expected output: "HEY JUDE"
-console.log(decodeMorse(".... . -.--   .--- ..- -.. ."));
+module.exports = decodeMorse;

@@ -20,6 +20,10 @@ A place to easily store and view my solutions and the best practice solutions to
 
 - Receive a sentence and convert each word to pig latin.
 
+[Moving Zeros To The End](./kata/5%20kyu/Moving%20Zeros%20To%20The%20End/README.md)
+
+- Receive an array and move all zeros to the end while preserving the order of the other elements.
+
 ### 6 kyu
 
 [Multiples of 3 or 5](./kata/6%20kyu/Multiples%20of%203%20or%205/README.md)
@@ -57,6 +61,7 @@ A place to easily store and view my solutions and the best practice solutions to
 [Build a pile of Cubes](./kata/6%20kyu/Building%20a%20pile%20of%20cubes/README.md)
 
 - Receive a volume `m`. Solve for `n` if it exists.
+
   ```
   n^3 + (n-1)^3 + (n-2)^3 + ... + 1^3 = m
   ```

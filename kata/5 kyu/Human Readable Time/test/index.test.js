@@ -1,4 +1,4 @@
-const humanReadable = require("../solution");
+const humanReadable = require("../index");
 const { strictEqual } = require("chai").assert;
 
 describe("tests index", function () {

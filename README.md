@@ -43,6 +43,9 @@ A place to easily store and view my solutions and the best practice solutions to
 - Receive `n` (number) and `p` (power) where consecutive digits of `n` are written as `a, b, c, d ...`. Solve for `k` if it exists.
 
   ![math](./kata/6%20kyu/Playing%20with%20digits/sumExample.png)
+  ```
+  (a^p + b^(p+1) + c^(p+2) + d^(p+3) + ...) = n * k
+  ```
 
 [Split Strings](./kata/6%20kyu/Split%20Strings/README.md)
 
@@ -51,3 +54,10 @@ A place to easily store and view my solutions and the best practice solutions to
 [Is a number prime?](./kata/6%20kyu/Is%20a%20number%20prime/README.md)
 
 - Receive a number and return if that number is prime. Optimize for large numbers.
+
+[Build a pile of Cubes](./kata/6%20kyu/Building%20a%20pile%20of%20cubes/README.md)
+
+- Receive a volume `m`. Solve for `n` if it exists.
+  ```
+  n^3 + (n-1)^3 + (n-2)^3 + ... + 1^3 = m
+  ```

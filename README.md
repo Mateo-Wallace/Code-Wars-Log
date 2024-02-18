@@ -14,6 +14,10 @@ A place to easily store and view my solutions and the best practice solutions to
 
 - Receive seconds and convert to `HH:MM:SS`.
 
+[Simple Pig Latin](./kata/5%20kyu/Simple%20Pig%20Latin/README.md)
+
+- Receive a sentence and convert each word to pig latin.
+
 ### 6 kyu
 
 [Multiples of 3 or 5](./kata/6%20kyu/Multiples%20of%203%20or%205/README.md)

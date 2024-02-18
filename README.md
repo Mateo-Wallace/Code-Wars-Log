@@ -37,3 +37,7 @@ A place to easily store and view my solutions and the best practice solutions to
 - Receive `n` (number) and `p` (power) where consecutive digits of `n` are written as `a, b, c, d ...`. Solve for `k` if it exists.
 
   ![math](./kata/6%20kyu/Playing%20with%20digits/sumExample.png)
+
+[Split Strings](./kata/6%20kyu/Split%20Strings/README.md)
+
+- Receive a string and split the string into pairs of two characters.

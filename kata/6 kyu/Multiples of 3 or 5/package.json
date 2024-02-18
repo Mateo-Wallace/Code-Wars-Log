@@ -1,0 +1,16 @@
+{
+  "name": "multiples-of-3-or-5",
+  "version": "1.0.0",
+  "description": "If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4",
+    "mocha": "^10.3.0"
+  }
+}

@@ -14,5 +14,4 @@ function solution(number) {
   return sum;
 }
 
-// expected output: 23
-console.log(solution(10));
+module.exports = solution;

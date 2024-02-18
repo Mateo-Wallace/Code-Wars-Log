@@ -45,3 +45,7 @@ A place to easily store and view my solutions and the best practice solutions to
 [Split Strings](./kata/6%20kyu/Split%20Strings/README.md)
 
 - Receive a string and split the string into pairs of two characters.
+
+[Is a number prime?](./kata/6%20kyu/Is%20a%20number%20prime/README.md)
+
+- Receive a number and return if that number is prime. Optimize for large numbers.

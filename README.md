@@ -24,6 +24,10 @@ A place to easily store and view my solutions and the best practice solutions to
 
 - Receive an array and move all zeros to the end while preserving the order of the other elements.
 
+[Greed is Good](./kata/5%20kyu/Greed%20is%20Good/README.md)
+
+- Given 5 dice rolls calculate the score for a dice game called **Greed**
+
 ### 6 kyu
 
 [Multiples of 3 or 5](./kata/6%20kyu/Multiples%20of%203%20or%205/README.md)

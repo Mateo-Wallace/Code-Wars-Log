@@ -1,3 +1,5 @@
+[![code wars badge](https://www.codewars.com/users/Mateo-Wallace/badges/micro)](https://www.codewars.com/users/Mateo-Wallace)
+
 # Code-Wars-Log
 
 ## Description

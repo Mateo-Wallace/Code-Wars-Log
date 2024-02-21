@@ -74,6 +74,10 @@ A place to easily store and view my solutions and the best practice solutions to
 
 - Receive an array and a number (`n`). Filter all values in the array so that each value only shows up `n` times.
 
+[Complete Fibonacci Series](./kata/6%20kyu/Complete%20Fibonacci%20Series/README.md)
+
+- Receive a number and return the Fibonacci sequence up to that number position of the sequence.
+
 ### 7 kyu
 
 [Factorial](./kata/7%20kyu/Factorial/README.md)

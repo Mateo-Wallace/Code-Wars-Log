@@ -73,3 +73,9 @@ A place to easily store and view my solutions and the best practice solutions to
 [Delete occurrences of an element if it occurs more than n times](./kata/6%20kyu/Delete%20occurrences%20of%20an%20element%20if%20it%20occurs%20more%20than%20n%20times/README.md)
 
 - Receive an array and a number (`n`). Filter all values in the array so that each value only shows up `n` times.
+
+### 7 kyu
+
+[Factorial](./kata/7%20kyu/Factorial/README.md)
+
+- Receive a number and calculate the factorial (`n! = n \* n - 1 ... \* 1`)

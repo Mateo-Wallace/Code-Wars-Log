@@ -89,3 +89,9 @@ A place to easily store and view my solutions and the best practice solutions to
 [Factorial](./kata/7%20kyu/Factorial/README.md)
 
 - Receive a number and calculate the factorial (`n! = n \* n - 1 ... \* 1`)
+
+### 8 kyu
+
+[Swap Values](./kata/8%20kyu/Swap%20Values/README.md)
+
+- Given an array, swap its values. The code is currently non functional, fix it.

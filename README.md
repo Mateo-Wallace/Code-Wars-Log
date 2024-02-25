@@ -10,6 +10,12 @@ A place to easily store and view my solutions and the best practice solutions to
 
 ## Kata
 
+### 4 kyu
+
+[Strip Comments](./kata/4%20kyu/Strip%20Comments/README.md)
+
+- Receive a string and edit said string in order to remove characters after a given symbol for each line.
+
 ### 5 kyu
 
 [Human Readable Time](./kata/5%20kyu/Human%20Readable%20Time/README.md)

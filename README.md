@@ -32,7 +32,7 @@ A place to easily store and view my solutions and the best practice solutions to
 
 [Greed is Good](./kata/5%20kyu/Greed%20is%20Good/README.md)
 
-- Given 5 dice rolls calculate the score for a dice game called **Greed**
+- Given 5 dice rolls calculate the score for a dice game called **Greed**.
 
 ### 6 kyu
 
@@ -84,11 +84,15 @@ A place to easily store and view my solutions and the best practice solutions to
 
 - Receive a number and return the Fibonacci sequence up to that number position of the sequence.
 
+[Factorial Length](./kata/6%20kyu/Factorial%20Length/README.md)
+
+- Given a number, return the length of its [factorial](https://www.britannica.com/science/factorial) (`n! = n \* n - 1 ... \* 1`).
+
 ### 7 kyu
 
 [Factorial](./kata/7%20kyu/Factorial/README.md)
 
-- Receive a number and calculate the factorial (`n! = n \* n - 1 ... \* 1`)
+- Receive a number and calculate the factorial (`n! = n \* n - 1 ... \* 1`).
 
 ### 8 kyu
 

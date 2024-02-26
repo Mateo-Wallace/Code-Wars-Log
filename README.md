@@ -34,6 +34,10 @@ A place to easily store and view my solutions and the best practice solutions to
 
 - Given 5 dice rolls calculate the score for a dice game called **Greed**.
 
+[The Hashtag Generator](./kata/5%20kyu/The%20Hashtag%20Generator/README.md)
+
+- Receive a string and capitalize the letter of each word, remove spaces, and return as a hashtag.
+
 ### 6 kyu
 
 [Multiples of 3 or 5](./kata/6%20kyu/Multiples%20of%203%20or%205/README.md)

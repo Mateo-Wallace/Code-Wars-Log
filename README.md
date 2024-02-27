@@ -42,6 +42,10 @@ A place to easily store and view my solutions and the best practice solutions to
 
 - Receive a string and determine if that string is alphanumeric.
 
+[String incrementer](./kata/5%20kyu/String%20incrementer/README.md)
+
+- Receive a string and add 1 the end of the string.
+
 ### 6 kyu
 
 [Multiples of 3 or 5](./kata/6%20kyu/Multiples%20of%203%20or%205/README.md)

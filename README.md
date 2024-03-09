@@ -106,6 +106,10 @@ A place to easily store and view my solutions and the best practice solutions to
 
 - Receive a number and calculate the factorial (`n! = n \* n - 1 ... \* 1`).
 
+[Disemvowel Trolls](./kata/7%20kyu/Disemvowel%20Trolls/README.md)
+
+- Receive a string and remove all vowels. Typescript.
+
 ### 8 kyu
 
 [Swap Values](./kata/8%20kyu/Swap%20Values/README.md)
